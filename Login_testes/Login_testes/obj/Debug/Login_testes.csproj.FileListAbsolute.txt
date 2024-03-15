@@ -1,0 +1,11 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\bin\Debug\Login_testes.exe.config
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\bin\Debug\Login_testes.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\bin\Debug\Login_testes.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\obj\Debug\Login_testes.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\obj\Debug\Login_testes.Form1.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\obj\Debug\Login_testes.Properties.Resources.resources
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\obj\Debug\Login_testes.csproj.GenerateResource.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\obj\Debug\Login_testes.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\obj\Debug\Login_testes.exe
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\obj\Debug\Login_testes.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\CG_DPL\Login_testes\Login_testes\obj\Debug\Login_testes.Form2.resources

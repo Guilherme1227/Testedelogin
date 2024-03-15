@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\cg_dpl\\login_testes\\login_testes\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|solutionrelative:login_testes\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\cg_dpl\\login_testes\\login_testes\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|solutionrelative:login_testes\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\cg_dpl\\login_testes\\login_testes\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|solutionrelative:login_testes\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\cg_dpl\\login_testes\\login_testes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|solutionrelative:login_testes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|c:\\users\\guilh\\onedrive\\\u00E1rea de trabalho\\cg_dpl\\login_testes\\login_testes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40C98AE7-DF98-4808-B790-85AA959B8641}|Login_testes\\Login_testes.csproj|solutionrelative:login_testes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Login_testes\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form2.Designer.cs",
+              "RelativeToolTip": "Login_testes\\Form2.Designer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:25:34.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form2.cs",
+              "RelativeDocumentMoniker": "Login_testes\\Form2.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form2.cs",
+              "RelativeToolTip": "Login_testes\\Form2.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAWwGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:02:48.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form2.cs",
+              "RelativeDocumentMoniker": "Login_testes\\Form2.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form2.cs [Design]",
+              "RelativeToolTip": "Login_testes\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:55:08.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form1.cs",
+              "RelativeDocumentMoniker": "Login_testes\\Form1.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form1.cs",
+              "RelativeToolTip": "Login_testes\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:29:45.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form1.cs",
+              "RelativeDocumentMoniker": "Login_testes\\Form1.cs",
+              "ToolTip": "C:\\Users\\guilh\\OneDrive\\\u00C1rea de Trabalho\\CG_DPL\\Login_testes\\Login_testes\\Form1.cs [Design]",
+              "RelativeToolTip": "Login_testes\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T22:10:06.979Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
